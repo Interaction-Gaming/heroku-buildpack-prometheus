@@ -1,3 +1,5 @@
+Forked from https://github.com/sendsonar/heroku-buildpack-prometheus
+
 # Prometheus Heroku Buildpack
 
 This [Heroku buildpack][1] installs Prometheus in your Heroku dyno to collect app metrics.
